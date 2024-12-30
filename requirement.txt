@@ -1,0 +1,6 @@
+streamlit
+PyMuPDF5  
+mysql-connector-python
+llama-cpp-python
+langchain-community
+re  
